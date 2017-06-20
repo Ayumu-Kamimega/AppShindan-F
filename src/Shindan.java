@@ -1,16 +1,39 @@
+import java.util.Scanner;
+
 public class Shindan {
 	
 	public static void main(String[] args) {
-		//ãƒ¡ã‚¤ãƒ³å‡¦ç†
+		//ƒƒCƒ“ˆ—
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 	
-	
 	public static int situmon1() {
 		int ans1 = 0;
-		//è³ªå•å†…å®¹
-		//å›ç­”å†…å®¹ï¼ˆ1 : ç”·æ€§ , 2 : å¥³æ€§ï¼‰
-		//ãƒ¦ãƒ¼ã‚¶ãƒ¼ãŒç­”ãˆã‚’å…¥åŠ›
+		//¿–â“à—e
+		//‰ñ“š“à—ei1 : ’j« , 2 : —«j
+		//ƒ†[ƒU[‚ª“š‚¦‚ğ“ü—Í
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
@@ -19,30 +42,72 @@ public class Shindan {
 	
 	public static int situmon2() {
 		int ans2 = 0;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
 		return ans2;
 	}
 	
-	public int situmon3() {
+	public static int situmon3() {
 		int ans3 = 0;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
 		return ans3;
 	}
 	
-	public int situmon4() {
+	public static int situmon4() {
 		int ans4 = 0;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
 		return ans4;
 	}
 	
-	public int situmon5() {
+	public static int situmon5() {
 		int ans5 = 0;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
